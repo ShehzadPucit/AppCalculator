@@ -145,6 +145,8 @@ public class MainActivity extends AppCompatActivity {
                     e1.setText(" 0");
 
                 }
+
+                /*r*/
                 else
                 {
                     result1=Float.parseFloat(e1.getText()+" ");
